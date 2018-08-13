@@ -1,0 +1,14 @@
+#red {
+    color: red;
+  }
+  span{color:blue}
+  .pur {color:purple}
+
+  span:hover {
+    background-color: blue;
+    color: black;
+    border: 1px solid black;
+  }
+  li[style] {
+    color: green;
+  }
